@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide Restricted Articles
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Hides articles from sellers on MKM that have restricted their articles
 // @author       n21lv
 // @match        https://www.cardmarket.com/*/Magic/Products/*/*
