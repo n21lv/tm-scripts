@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Hides articles from sellers on MKM that have restricted their articles
 // @author       n21lv
-// @match        https://www.cardmarket.com/*
+// @match        https://www.cardmarket.com/*/Magic/Products/*/*
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @run-at       document-end
