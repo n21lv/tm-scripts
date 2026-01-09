@@ -17,5 +17,7 @@ One of its main benefits is that it *completely removes the need for sorting the
 4. Find the Tampermonkey extension and tap the "Get" button. You will see a prompt asking you about installing the extension
 5. Check the checkbox saying `You need to enable "Allow User Scripts" option to use this extension` to enable the "Add" button
 6. Tap the "Add" button
-7. Open the [userscript file](gem-decklist-checkboxes.user.js) and tap the "Raw" button. This will cause a Tampermonkey prompt asking about the userscript installation
-8. Click "Install", and you're done!
+7. Using Edge browser, go to https://github.com/n21lv/tm-scripts (this repository)
+8. Open the "GEM_Deckcheck_Assistant] folder. You will see this readme.
+9. Open the [gem-decklist-checkboxes.user.js userscript file](gem-decklist-checkboxes.user.js) and tap the "Raw" button. This will cause a Tampermonkey prompt asking about the userscript installation
+10. Click "Install", and you're done!
