@@ -31,5 +31,5 @@ One of its main benefits is that it *completely removes the need for sorting the
 4. Enjoy!
 
 # FAQ
-## Will this work on iOS?
-Honestly, I have no idea as I do not own any iOS devices, but Tampermonkey does support the Safari browser, so I would assume it might work on Edge for iOS. Please let me know if it actually works, and I will try adding an installation instruction for iOS
+## Will this work on iOS/my Apple mobile device?
+Honestly, I have no idea as I do not own any Apple devices, but Tampermonkey does support the Safari browser and Edge does have an iOS version, so I would assume it might work. Please let me know if it actually works, and I will try adding an installation instruction for iOS
