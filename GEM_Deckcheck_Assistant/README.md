@@ -19,5 +19,7 @@ One of its main benefits is that it *completely removes the need for sorting the
 6. Tap the "Add" button
 7. Using Edge browser, go to https://github.com/n21lv/tm-scripts (this repository)
 8. Open the "GEM_Deckcheck_Assistant] folder. You will see this readme.
-9. Open the [gem-decklist-checkboxes.user.js userscript file](gem-decklist-checkboxes.user.js) and tap the "Raw" button. This will cause a Tampermonkey prompt asking about the userscript installation
-10. Click "Install", and you're done!
+9. Open the [gem-decklist-checkboxes.user.js](gem-decklist-checkboxes.user.js) file
+10. Tap the three dots button right above the code. It will show a small menu titled "Raw file contents".
+11. Tap the "View" button. This will cause a Tampermonkey prompt asking about the userscript installation
+12. Tap "Install", and you're done!
