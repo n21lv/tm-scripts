@@ -3,7 +3,7 @@ This is a small [Userscript](https://en.wikipedia.org/wiki/Userscript) created b
 
 One of its main benefits is that it *completely removes the need for sorting the deck* before performing the deckcheck.
 
-# How do I use this?
+# How do I install this?
 ## On PC
 1. Install the [Tampermonkey](https://www.tampermonkey.net) extension. This [video guide](https://www.tampermonkey.net/faq.php#Q100) will explain the details if you're unsure how to do this
 2. Once installed, [make sure you actually enable the possibility to execute userscripts](https://www.tampermonkey.net/faq.php#Q209)
@@ -23,3 +23,9 @@ One of its main benefits is that it *completely removes the need for sorting the
 10. Tap the three dots button right above the code. It will show a small menu titled "Raw file contents".
 11. Tap the "View" button. This will cause a Tampermonkey prompt asking about the userscript installation
 12. Tap "Install", and you're done!
+
+# How do I use this?
+1. Open a submitted decklist in GEM
+2. Click on Print at the top left (under Deck Details)
+3. The script will be automatically executed and will add checkboxes next to each card
+4. Enjoy!
