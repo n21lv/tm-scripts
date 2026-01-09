@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FaB Judge Deckchecking Assistant
-// @namespace    https://gist.github.com/n21lv/f49cb9b4f9509bdbacb7d0f80dc1ab7e
+// @namespace    https://github.com/n21lv/tm-scripts/blob/master/GEM_Deckcheck_Assistant/
 // @version      2026-01-09
 // @description  Automatically adds checkboxes upon loading a decklist in GEM's print view
 // @author       pantokrator (original code) and n21lv (TM port)
