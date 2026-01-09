@@ -29,3 +29,7 @@ One of its main benefits is that it *completely removes the need for sorting the
 2. Click on Print at the top left (under Deck Details)
 3. The script will be automatically executed and will add checkboxes next to each card
 4. Enjoy!
+
+# FAQ
+## Will this work on iOS?
+Honestly, I have no idea as I do not own any iOS devices, but Tampermonkey does support the Safari browser, so I would assume it might work on Edge for iOS. Please let me know if it actually works, and I will try adding an installation instruction for iOS
