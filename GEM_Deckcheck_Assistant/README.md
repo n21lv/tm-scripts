@@ -5,7 +5,7 @@ One of its main benefits is that it *completely removes the need for sorting the
 
 # How do I use this?
 ## On PC
-1. Download and [Tampermonkey](https://www.tampermonkey.net). This [video guide](https://www.tampermonkey.net/faq.php#Q100) will explain the details if you're unsure how to do this
+1. Install the [Tampermonkey](https://www.tampermonkey.net) extension. This [video guide](https://www.tampermonkey.net/faq.php#Q100) will explain the details if you're unsure how to do this
 2. Once installed, [make sure you actually enable the possibility to execute userscripts](https://www.tampermonkey.net/faq.php#Q209)
 3. Open the [userscript file](gem-decklist-checkboxes.user.js) and click the "Raw" button. This will cause a Tampermonkey prompt asking about the userscript installation
 4. Click "Install", and you're done!
