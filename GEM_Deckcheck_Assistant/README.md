@@ -13,8 +13,8 @@ One of its main benefits is that it *completely removes the need for sorting the
 ## On Android
 1. As of writing this, only Microsoft Edge supports installing extensions, so you would first need to install the [Edge browser](https://play.google.com/store/apps/details?id=com.microsoft.emmx) from Play Market
 2. After installing Edge, open the menu by tapping the three horizontal lines icon in the bottom right corner
-3. Tap the Extensions option
-4. Find the Tampermonkey extension and tap the Get button. You will see a prompt asking you about installing the extension
+3. Tap the "Extensions" option
+4. Find the Tampermonkey extension and tap the "Get" button. You will see a prompt asking you about installing the extension
 5. Check the checkbox saying `You need to enable "Allow User Scripts" option to use this extension` to enable the "Add" button
 6. Tap the "Add" button
 7. Open the [userscript file](gem-decklist-checkboxes.user.js) and tap the "Raw" button. This will cause a Tampermonkey prompt asking about the userscript installation
