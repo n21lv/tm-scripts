@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         MKM Helper
-// @namespace    https://gist.github.com/n21lv/ca7dbefd5955afc7205049ad950aec96
-// @updateUrl    https://gist.github.com/n21lv/ca7dbefd5955afc7205049ad950aec96/raw/mkm_helper.user.js
-// @downloadUrl  https://gist.github.com/n21lv/ca7dbefd5955afc7205049ad950aec96/raw/mkm_helper.user.js
+// @namespace    https://github.com/n21lv/tm-scripts/raw/refs/heads/master/MKM_Helper
+// @updateUrl    https://github.com/n21lv/tm-scripts/raw/refs/heads/master/MKM_Helper/mkm_helper.user.js
+// @downloadUrl  https://github.com/n21lv/tm-scripts/raw/refs/heads/master/MKM_Helper/mkm_helper.user.js
 // @version      0.8
 // @description  Various useful UI modifications for Cardmarket (Magic & FaB)
 // @author       n21lv
