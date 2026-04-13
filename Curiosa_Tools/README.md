@@ -22,7 +22,7 @@ This is a [Userscript](https://en.wikipedia.org/wiki/Userscript) that aims to ma
 6. Tap the "Add" button
 7. Using Edge browser, go to https://github.com/n21lv/tm-scripts (this repository)
 8. Open the "Curiosa_Tools" folder. You will see this readme
-9. Open the [mkm_helper.user.js](curiosaTools.user.js) file
+9. Open the [curiosaTools.user.js](curiosaTools.user.js) file
 10. Tap the three dots button right above the code. It will show a small menu titled "Raw file contents"
 11. Tap the "View" button. This will cause a Tampermonkey prompt asking about the userscript installation
 12. Tap "Install", and you're done!
