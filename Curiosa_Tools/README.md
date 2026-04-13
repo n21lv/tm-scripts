@@ -2,9 +2,9 @@
 This is a [Userscript](https://en.wikipedia.org/wiki/Userscript) that aims to make your life a bit easier when using Curiosa.io by adding some quality-of-life improvements. 
 ## Features
 * Adds multiple hotkeys that work in Card Search and Collection Manager (only when editing the collection):
- * `/` will focus the card search field (`Ctrl + /` will still focus the card search field in the top right corner)
- * `Shift + Enter` or `Alt + =` will add 1 copy of the currently selected card to your collection. For this to happen you need to narrow down the set of cards to *one specific* printing first (normally by selecting set and foiling). If there are multiple cards visible, the first one will be added.
- * `Alt + -` will remove 1 copy of the currently selected card from your collection. Same limitations as above apply
+  * `/` will focus the card search field (`Ctrl + /` will still focus the card search field in the top right corner)
+  * `Shift + Enter` or `Alt + =` will add 1 copy of the currently selected card to your collection. For this to happen you need to narrow down the set of cards to *one specific* printing first (normally by selecting set and foiling). If there are multiple cards visible, the first one will be added.
+  * `Alt + -` will remove 1 copy of the currently selected card from your collection. Same limitations as above apply
 
 # How do I install this?
 ## On PC
